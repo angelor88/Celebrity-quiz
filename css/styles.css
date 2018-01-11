@@ -1,3 +1,32 @@
 #donaldTrump {
   display: none;
 }
+#morganFreeman {
+  display: none;
+}
+#joaquinPhoenix {
+  display: none;
+}
+#kanyeWest {
+  display: none;
+}
+#merylStreep {
+  display: none;
+}
+#judiDench {
+  display: none;
+}
+#selenaGomez {
+  display: none;
+}
+#kristenStewart {
+  display: none;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  border: 12px solid #A2D7E8;
+}
